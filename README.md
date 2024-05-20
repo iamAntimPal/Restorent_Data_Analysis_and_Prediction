@@ -1,18 +1,11 @@
 # Restaurant Insights Analysis and Prediction
 
-**Cognifyz Technologies Verified Project** - [**Credentials**](https://mail-attachment.googleusercontent.com/attachment/u/1/?ui=2&ik=b140f9dbc2&attid=0.1&permmsgid=msg-f:1779966713544278776&th=18b3b64b98d382f8&view=att&disp=inline&saddbat=ANGjdJ_BlXsYPf7XnWzyfd4-O21Z-2EXK5Q2FB9TG3iQ9UjDMfNvRBShno9Feei8t5bhflV3KPA9vS2CfbH1vKecKjbnz8ykL3gLt1-0xoxiZnDZ5B7kF7YHegWJYXhbTN1H2hZOG4k8AKN5v-8hWtuMmaEsm8eKqUbsT324p-9ZTXukprlgwQjCZVrqzxe1nKtYX8Q9wwr_bxOBxRKvxo33yHjrMXA2mQQ6F_J5ychepjqAv9QFc2CQ_sRJYe-l7oIsaywavRTfm1N19blpf0MWmOiwytwW9pRVJnHuIr2XoDiqTDVsd9gzB4byLFlVv_88MnDCPxzqN4Sz6ypqWL-M2X6VtolrGlkeacJf2R5Vhgx4K0EbxGuGPHSPo4F4Oekb8rFmyqQN8tDby-kf1cr0Yyd0uevtQNhMnC094p7RvUBkKmyrro3xtbKFQVSHuBvT7Ewqwu94BiwvOTmijmAbf435abRFbQ9xJLMhsVRkvyBV1xtwQke09GtNlrogiH_T4iDez0k-QCRowEn16f6E2VTECaA3cwR5htY_D0hBnNKHkd_GqDVGJ2dmgiXueI-h4VKkERaHI3ZvwxCKWlZJDtknR0Ip3U2vBHI7nKBVKY89NPKk6uR4wyISTDFiw1ptnMSihqbnzR5fB3gl6kOkP-6jqjtA02aAWa7awI07NSgOHueQE-x_FNcUnsrxwo7cX_1yvVe7E3BGrwWh1KOpgKI0PuiR0uzd6RsfsENie0T4bkTpCRPvh0jzmRjhLlgbMA5DFD8FXaNIFGPMibyAOYl4Eoea2g00NjnuFBD-YBBiMXtGXkMfnWcVLhZpqQraiKNKkQfqg-VbJLo0CzSk6TJkheW_uaBUQxk_1aLi1ghHyo0Uh8-eq2qywILDf7fNRaYH_zKI7ZTr0BJ5Tn5o-wEodEE4Il6ApRS4Z0pz1fZlzoDGOSBysyNQVJgIFqXtM5m2PyqNkKuQYXxJbfLzY6hzLA_Wzy-L6om_og0XmYsNdSQ9MwHsm2wBSrwncRoEJTaPq0kCG4sXXA4oUGdp3rjJ3VLCVMwRgdsnJg)
+**Cognifyz Technologies Verified Project** - 
 
 ![MasterHead](https://www.blinkco.io/wp-content/uploads/2021/08/restaurant-data-analytics-illustration.jpg)
 
 <font size="1">Image Courtesy: https://www.blinkco.io/wp-content/uploads/2021/08/restaurant-data-analytics-illustration.jpg</font>
 
-Click on the following links to checkout the colab files for all three levels.
-- [Level 1](https://colab.research.google.com/drive/1-coKpWfCLOBPXQ6WBltLg0FnUfiAMuo9?authuser=1#scrollTo=view-in-github)
-- [Level 2](https://colab.research.google.com/drive/1qcHo5QmcQXSIWQ9VOD6p3KNPoJGsW-uH?authuser=1#scrollTo=vncDsAP0Gaoa)
-- [Level 3](https://colab.research.google.com/drive/1buH31KXjgApa6Hibdi7xJUtfaU2ZZ-s8?authuser=1)
-
-
----
 
 ## Problem Statement
 
